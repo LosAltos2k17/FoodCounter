@@ -1,0 +1,26 @@
+{
+  "name": "fc",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LosAltos2k17/FoodCounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LosAltos2k17/FoodCounter/issues"
+  },
+  "homepage": "https://github.com/LosAltos2k17/FoodCounter#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "node-cmd": "^1.2.0",
+    "python-shell": "^0.4.0"
+  }
+}
